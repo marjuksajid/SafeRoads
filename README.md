@@ -3,7 +3,8 @@
 SafeRoads is a database-driven project designed to track road traffic violations and associate them with driver and owner data. Built with structured SQL, it aims to encourage responsible driving by keeping a record of violations for safer roads.
 
 #### Video overview:
-[![SafeRoads Demo](https://img.youtube.com/vi/9UH1RNqoCQA/0.jpg)](https://www.youtube.com/watch?v=9UH1RNqoCQA)
+[![SafeRoads Demo](https://i.vimeocdn.com/video/2055573927-01acdc4a8ca84bc6f656168988dae4ad234807c7eccb0079b5015258ccdf4763-d_640.jpg
+)](https://vimeo.com/1116054825)
 
 ## Scope
 
